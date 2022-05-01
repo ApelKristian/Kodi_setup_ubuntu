@@ -14,6 +14,7 @@ sudo apt-get install kodi-audiodecoder-stsound -y
 sudo apt-get install kodi-audiodecoder-timidity	-y
 sudo apt-get install kodi-audiodecoder-vgmstream -y
 sudo apt-get install kodi-imagedecoder-heif -y
+sudo apt-get install kodi-pvr-iptvsimple -y
 
 
 
